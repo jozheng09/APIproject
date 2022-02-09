@@ -1,2 +1,2 @@
-# tictactoe
-Tic tac toe game 
+# API Library Project for Prototyping
+
