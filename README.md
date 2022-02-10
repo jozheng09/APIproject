@@ -1,7 +1,4 @@
-# phaser-platform
+# useless-facts-api
+Useless Facts API
 
-![phaser-platform](https://raw.github.com/felipepucinelli/phaser-platform/master/demo.jpg)
-
-A platform game developed with phaser.io
-
-[Play the game](http://felipepucinelli.github.io/phaser-platform/)
+`GET https://useless-facts.sameerkumar.website/api`
