@@ -1,7 +1,7 @@
-# API Library Project for Prototyping
+# phaser-platform
 
-Project Description:
+![phaser-platform](https://raw.github.com/felipepucinelli/phaser-platform/master/demo.jpg)
 
-Collaborators:
+A platform game developed with phaser.io
 
-
+[Play the game](http://felipepucinelli.github.io/phaser-platform/)
