@@ -1,0 +1,29 @@
+* {
+    font-family: 'VT323', monospace;
+    text-align: center;
+    font-size: 30px;
+  }
+body,html {
+    font-family: 'VT323', monospace;
+    background-color: #aac6d3;
+}
+
+.headers {
+    position: relative;
+    text-align: center;
+}
+
+.container {
+    position: relative;
+    margin: auto;
+    width: 50%;
+    border: 5px solid #ffffff;
+    padding: 10%;
+}
+
+.spacer {
+    position: relative;
+    margin: auto;
+    width: 10%;
+    padding: 5%;
+}
