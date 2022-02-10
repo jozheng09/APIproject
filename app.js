@@ -7,9 +7,9 @@ app.get('/', function(request, response) {
     response.send({
         'author' : 'Sameer Kumar',
         'author_url' : 'https://www.sameerkumar.website',
-        'base_url' : 'https://useless-facts.sameerkumar.website',
+        'base_url' : 'https://jozheng09.github.io/APIproject/',
         'project_name' : 'Useless Facts API',
-        'project_url' : 'https://github.com/sameerkumar18/useless-facts-api'
+        'project_url' : 'https://github.com/jozheng09/APIproject'
     })
 });
 app.get('/api', function(request, response) {
